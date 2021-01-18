@@ -1,0 +1,118 @@
+0,Usual names,Type,Main Ingredients,Energy (kcal),Water(g),Protein N x 6.25 (g),Total fat (g),Available carbohydrates (g),Crude fibre (g),Ash (g),Fe (mg),Zn (mg),Mg (mg),Ca (mg),P (mg),Cu (mg),Mn (mg),K (mg),Na (mg),Se (mg)
+1,Banane-malaxée,m,"Banane, arachide, poisson, ail, herbes vertes, gingembre, poivre, sel",84,83.0,1.93,4.92,7.16,1.66,1.32,0.78,2.05,21,49,49,0.047,0.455,196,,
+2,Ragoût de Haricot,s,"Haricot rouge, tomate, écrevisse, oignon, huile de palme",240,71.9,0.20,26.6,0.90,0.20,,0.10,0.10,2,5,5,,0.0000,31,5,0.20
+3,Bouillie-maÏs,"m, sn","Farine de maïs, arachide grillée, sucre, extrait de pulpe de tamarin, riz",64,84.5,0.95,0.44,13.97,,0.13,,,,,,,,,,
+4,Bouillie-infantile 1,m,"Farine de maïs, sucre, lait, arachide, jaune d'œuf",51,86.9,0.77,0.38,11.86,,0.12,,,,,,,,,,
+5,Bouillie infantile 2,m,"Pâte de maïs, sucre, lait, arachide, jaune d'œuf",48,87.5,0.70,0.30,11.40,,0.09,,,,,,,,,,
+6,Manioc-fufu,c,Farine de manioc fermentée,158,55.5,4.90,0.50,32.70,0.00,,1.40,0.00,1,1,0,,0.0000,45,2,0.00
+7,Pudding au manioc,"m, sn","Manioc brut, huile de palme, sel",115,79.4,5.70,9.50,4.30,1.90,,1.60,0.80,52,77,90,,0.600,334,24,1.70
+8,Ragoût de poulet,s,"Poulet, tomate",269,94.4,19.20,20.20,2.10,0.90,,1.10,2.10,22,16,140,,0.100,286,70,15.50
+9,Condrès,m,"Banane non mûre, huile de palme, arachide, sel, poivre, viande de vache, fumée",89,77.4,1.50,0.78,18.34,1.15,0.87,0.52,0.52,23,,,0.060,,,,
+10,Corn chaff,m,"Grains de maïs, haricot rouge, huile de palme, sel",149,67.9,3.76,5.65,20.29,1.02,1.38,1.95,1.20,31,,,0.190,,,,
+11,Corn / groundnut-pudding,sn,"Farine de maïs, arachide grillée, épices",180,63.7,7.50,11.40,16.50,3.40,,1.40,1.10,55,23,131,,0.500,317,7,2.00
+12,Coucouma,s,"Arachide, huile de palme, oignon, tomate, poisson fumé, feuille aramanthus, sel",105,79.5,6.06,7.61,1.29,3.65,1.90,2.09,0.83,65,,,0.100,,,,
+13,Couscous/gombo,m,"Maïs, tomate, gombo, herbes vertes, ail, poivre, viande de vache, épices",108,75.3,2.92,4.02,13.55,3.11,0.68,0.54,0.21,14,93,69,0.020,0.091,61,37,
+14,Soupe de poisson séché à l'arachide,s,"Poisson, arachide, sel, oignon, épices, poivre",108,88.3,6.70,8.70,1.70,0.90,,0.40,0.30,23,17,98,,0.200,185,,0.70
+15,Ebobolo,c,Tubercule de manioc,167,57.9,0.63,0.21,40.32,0.6,0.34,0.75,1.04,20,,,0.050,,,20,
+16,Le pudding aux graines d'Egusi,sn,"Graines de melon, poisson séché, épices",25,93.0,3.30,0.10,3.10,0.30,,0.40,0.20,11,12,48,,0.100,212,34,4.80
+17,Eru,s,"Feuille de Gnetum africanum, peau de vache, viande de vache, poisson séché, écrevisse, huile de palme",209,73.7,2.20,22.4,1.10,0.40,,0.60,0.30,21,67,35,,0.300,222,,1.30
+18,Eru/fufu,m,"Pâte de manioc fermentée, feuille de Gnetum africanum",46,88.9,2.01,1.81,4.32,2.26,0.90,1.20,0.13,15,35,15,0.035,0.643,114,,
+19,Etondo-non-Salé,s,"Arachide, pulpe de noix de palme, oignon, tomate, poisson fumé, feuille d'aubergine de jardin",168,73.3,7.56,13.10,0.94,4.30,0.90,2.87,0.74,64,,,0.230,,,,
+20,Etondo-Salé,s,"Arachide, huile de palme, oignon, tomate, poisson fumé, feuille d'aubergine de jardin, sel",185,68.7,7.94,15.53,1.14,4.55,2.34,2.49,0.76,60,,,0.180,,,,
+21,Fian-Ngon,s,"Graine d'Egusi, huile de palme, oignon, tomate, poisson fumé, sel",107,81.1,5.99,8.23,1.33,1.81,1.50,3.55,1.25,68,,,0.210,,,,
+22,Fian-Ongoualik,s,"Graine d'Egusi (petite), huile de palme, oignon, tomate, poisson fumé, sel",111,80.4,6.65,8.40,1.38,1.73,1.36,3.98,1.43,74,,,0.190,,,,
+23,Fian-Owondo,s,"Arachide, huile de palme, oignon, tomate, poisson fumé, sel",95,82.7,5.58,6.35,3.16,1.56,0.65,1.01,0.67,37,,,0.080,,,,
+24,Fian-tomate,s,"Tomate, huile de palme, sel",176,69.9,2.84,15.28,5.93,1.64,4.44,1.92,1.10,22,,,0.060,,,,
+25,Ragoût de Poisson,s,"Poisson cru, tomate",188,75.1,2.10,19.40,2.80,1.20,,0.40,0.30,17,14,36,,0.200,113,5,0.60
+26,Fufu-corn,c,Farine de maïs,187,53.5,3.60,1.50,39.40,1.70,,0.60,0.20,25,4,52,,0.000,63,2,1.70
+27,Gniri/Follere,m,"Farine de céréales, feuilles d'Hibiscus sabdariffa, arachide, niébé, viande de vache séchée, poisson, oignon, potasse (kilbu), huile de coton, huile d'arachide",145,65.8,4.41,1.92,27.63,,1.03,5.20,1.23,,29,92,,1.334,,,
+28,Gniri/Lalo,m,"Farine de céréales, feuille de Corchorus olitorius, arachide séchée, niébé, viande de vache séchée, poisson, oignon, potasse (kilbu), huile de coton, huile d'arachide",141,65.6,4.30,1.55,27.35,,1.14,5.74,1.75,,27,93,,1.170,,,
+29,Gniri/Tasba,m,"Farine de céréales, feuille de Casia tora, arachide séchée, niébé, viande de vache séchée, poisson, oignon, potasse (kilbu), huile de coton ou huile d'arachide",137,66.3,3.91,.138,27.20,,1.15,4.92,1.55,,32,89,,1.281,,,
+30,Green vegetable sauce,s,"Légumes verts, viande de vache, tomate, oignon, épices, graines de melon",197,72.7,2.60,20.30,3.00,0.90,,1.30,0.70,48,,61,,0.400,341,31,0.60
+31,Pudding à l'arachide,sn,"Arachides grillées, épices",403,33.5,18.3,35.00,11.50,6.10,,3.30,2.30,120,66,267,,1.400,502,14,5.10
+32,Soupe à l'arachide,s,"Arachides grillées, tomates, oignons, épices (poisson, viande)",250,61.8,8.10,23.70,3.90,1.90,,1.00,0.70,40,25,120,,0.400,236,27,1.50
+33,Huckleberry-pumpkin leaves soup,s,"Légumes-feuilles (feuilles de myrtille et de potiron), tomate, oignon, épices, arachide, poisson, viande de vache",199,79.2,5.30,19.20,2.90,0.90,,1.60,1.10,56,96,85,,0.500,399,42,3.40
+34,Huckleberry-sauce,s,"Feuille de myrtille, tomate, oignon, épices, arachide, poisson",134,83.0,0.90,14.50,1.10,0.30,,0.60,0.20,18,51,18,,0.200,171,18,0.30
+35,Igname-malaxé,m,"Tubercule d'igname, tomate, papier, ail, herbes vertes, poisson séché",110,73.7,3.37,3.93,13.59,3.53,1.92,0.73,0.31,20,150,123,0.062,0.175,300,,
+36,Ikouan,c,Plantain,90,76.6,0.81,0.14,20.64,1.39,0.41,0.51,0.52,22,,,0.050,,,,
+37,Keleng-keleng,s,"Légumes-feuilles verts, arachides, viande de vache séchée, poisson",152,78.7,5.70,13.90,3.20,1.40,,1.10,0.60,40,60,88,,0.500,298,33,1.20
+38,Koki-beans,"m, sn","Niébé, huile de palme, sel, oignon",169,73.1,3.20,14.00,8.60,2.10,,1.60,0.40,34,44,64,,0.600,287,14,0.90
+39,Koki-corn,m,"Maïs frais, huile de palme, sel, oignons, légumes à feuilles vertes",75,78.8,2.40,0.90,17.40,2.10,,0.50,0.50,24,4,65,,0.100,218,5,0.60
+40,Koki/plantain,m,"Niébé, huile de palme rouge, poivre, sel, banane",107,75.6,2.48,4.11,13.13,3.58,1.08,1.60,0.32,29,10,49,0.069,0.381,259,,
+41,Kon,s,"Haricot rouge, huile de palme, tomate, sel, poivre",161,67.7,7.38,7.05,15.15,3.52,2.20,2.24,1.52,38,,,0.120,,,,
+42,Kpem,s,"Feuille de manioc, pulpe de noix de palme, arachide, pépin de courge",153,84.9,3.00,15.5,2.30,0.90,,1.00,0.40,33,69,51,,0.400,269,26,0.80
+43,Kwem/manioc,m,"Feuille de manioc, noix de palme fraîche, tubercule de manioc, sel",118,74.9,2.32,4.88,15.55,1.42,0.80,0.91,0.37,22,40,42,0.047,0.260,193,,
+44,Kwemp-non-salé,s,"Palm nut pulp, onion, tomato, smoked fish, cassava leave",97,82.8,2.99,7.04,4.15,2.67,0.35,2.86,0.68,36,,,0.140,,,,
+45,Kwemp-salé,s,"Pulpe de noix de palme, oignon, tomate, poisson fumé, feuille de manioc",118,77.5,6.53,8.09,3.13,3.22,1.56,2.34,0.91,50,,,0.110,,,,
+46,Legumes sauté/manioc,m,"Poisson séché, herbes vertes, ail, oignon, poivron, manioc, tubercule, tomate, légume",87,79.3,2.71,3.38,9.83,3.09,1.56,1.22,0.25,29,182,52,0.069,0.204,164,,
+47,Lombo,s,"Feuille de taro, arachide, huile de palme, oignon, tomate, poisson fumé, sel",94,81.6,5.31,6.44,2.45,2.36,1.80,1.71,0.66,35,,,0.120,,,,
+48,Macabo rape/arachide,m,"Tubercule de taro, arachide, gombo, herbes vertes, ail, poivre, poisson frais, épices",138,70.1,4.78,6.69,12.45,4.34,1.63,1.52,2.06,26,31,74,0.087,0.286,324,,
+49,Macabo/Ndolé,m,"Tubercule de macabo, légume-feuille, arachide, ail, viande de vache, poivre, épices",102,78.0,2.74,4.49,12.04,1.47,1.25,0.63,0.27,25,63,69,0.054,0.101,255,,
+50,Malaxé/pommes,m,"Pomme de terre irlandaise, tomate, herbes vertes, ail, carotte, poivre, sel, huile de palme rouge, épices",121,77.5,1.76,8.02,8.90,3.00,1.16,0.88,0.29,20,20,66,0.061,0.171,251,,
+51,Mbedi 1,m,"Feuille de manioc, tubercule de manioc, arachide, huile de palme, poivre frais, écrevisses, sel",178,63.8,2.47,8.03,24.01,,1.71,1.84,1.42,,16,43,,,,,
+52,Mbedi 2,m,"Feuille de manioc, tubercule de manioc, arachide (double dose), huile de palme, poivre, écrevisses (double dose), sel",159,67.2,2.92,6.67,21.87,,1.31,1.90,,,14,63,,,,,
+53,Mbou,c,Tubercule de manioc,167,57.8,0.80,0.22,40.14,0.79,0.28,0.60,1.05,38,,,0.080,,,,
+54,Ragoût de Viande,s,"Viande de vache, tomate",186,76.8,1.10,20.00,1.70,0.70,,0.20,0.20,8,7,18,,0.100,70,4,0.30
+55,Mebanga,c,Tubercule de taro,129,66.2,1.68,0.09,29.95,0.94,1.18,0.59,1.01,21,,,0.10,,,,
+56,Mebouna,c,La patate douce,129,66.7,1.28,0.42,29.58,1.04,0.94,0.67,0.78,23,,,0.090,,,,
+57,Medjana-Mebanga,m,"Tubercule de taro, huile de palme, sel, poivre",147,66.2,1.82,4.30,24.78,0.79,2.14,0.59,0.83,20,,,0.060,,,,
+58,Midjem,s,"Feuille de courge, arachide, huile de palme, oignon, tomate, poisson fumé, pulpe de noix de palme",118,80.5,4.30,9.90,1.68,2.55,1.09,5.57,1.54,48,,,0.150,,,,
+59,Na' kan se',s,"Huile de palme, potasse (extraits aqueux de cendres), épices, fumé, sel, maggi cube, gombo",89,86.7,0.76,8.41,2.23,0.85,1.05,,,,,,,,,,
+60,Na' mpfeu,s,"Extraits d'écorce de Triumfetta pentandra, épices moulues, sel, cube de maggi",12,95.9,0.23,0.05,2.20,0.88,0.73,,,,,,,,,,
+61,Na'nou'ne,s,"Huile de palme, potasse, épices, poisson fumé, sel, cube de maggi",166,76.7,0.55,16.41,3.36,1.51,1.51,,,,,,,,,,
+62,Na'sessouk,s,"Poisson fumé, épices, sel, cube de maggi",82,75.9,1.86,1.14,14.22,3.84,3.01,,,,,,,,,,
+63,Naching,m,"Farine de millet, dolique, sel, dalan (potasse), gombo, oseille",97,76.7,2.55,1.08,19.22,,0.43,1.64,0.67,,4,53,,,,,
+64,Nang tare1,m,"tubercule de taro, feuille amère, huile de palme), poivre sec, sel",151,67.1,0.11,6.98,21.92,,2.56,1.15,0.98,,22,48,,,,,
+65,Nang tare2,m,"Tubercule de taro, feuille amère (double dose), huile de palme (double dose), poivre sec (double dose), sel",143,67.5,0.21,5.62,23.00,,2.20,0.85,,,23,47,,,,,
+66,Ndole,s,"Feuille de vernonia, viande de vache, crevettes séchées, arachide",246,55.7,10.5,21.9,4.30,1.70,,1.60,1.70,62,53,144,,0.500,315,50,4.80
+67,Ndzap chou' mondzou,s,"Arachides, feuilles de brassica deracea, huile de palme, oignon, tomate fraîche, poisson fumé, cube de sel maggi",145,76.1,10.5,11.81,3.13,1.94,1.58,,,,,,,,,,
+68,Ndzap-kanné,s,"Feuille de deracea Brasica, huile de palme, oignon, tomate fraîche, poisson fumé, sel, cube de maggi",159,76.5,5.50,15.23,1.21,3.75,0.89,,,,,,,,,,
+69,Ndzap-njheu',s,"Graine d'Egusi, feuille de Solanum nigrum, huile de palme, oignon, tomate fraîche, poisson fumé, sel, cube de maggi",115,80.1,2.40,9.49,0.95,3.00,1.52,,,,,,,,,,
+70,Nkendi ndendieu,s,"Banane, arachide, huile de palme, oignon, tomate fraîche, poisson fumé, sel, cube maggi",96,78.6,4.91,3.53,13.18,1.22,1.12,,,,,,,,,,
+71,Nnam-Ngon,sn,"Graine d'Egusi, poisson fumé, sel, poivre",219,61.1,2.38,15.86,4.43,3.18,2.34,5.52,2.50,135,,,0.310,,,,
+72,Nnam-Ngon/Ebobolo,"m, sn","Graine d'Egusi, sel, poivre, pâte de manioc fermentée",216,60.2,13.06,14.85,4.08,3.24,2.78,7.29,2.74,147,,,0.390,,,,
+73,Nnam-Ongoualik,sn,"Graine d'Egusi, poisson fumé, sel, poivre",324,41.6,14.83,21.89,8.58,4.48,2.59,3.28,2.96,141,,,0.340,,,,
+74,Nnam-Owondo,sn,"Arachide, poisson fumé, sel, poivre",201,53.4,20.90,3.63,38.45,0.39,0.72,1.80,1.46,46,,,0.110,,,,
+75,Nnam-Owondo/Ebobolo,"m, sn","Pâte d'arachide, sel, sel, poivre, pâte de manioc fermentée",231,49.5,3.43,6.82,37.32,0.94,0.89,1.51,1.66,55,,,0.140,,,,
+76,Nnem-non-salé,s,"Feuille de gombo, arachide, pulpe de noix de palme, oignon, tomate, poisson fumé",129,79.5,4.52,11.25,1.24,3.33,0.57,2.64,0.56,57,,,0.140,,,,
+77,Nnem-Salé,s,"Feuille de corchorus, arachide, huile de palme, oignon, tomate, poisson fumé, sel",119,77.9,4.08,9.06,1.50,3.92,1.62,2.10,0.70,45,,,0.110,,,,
+78,Okok1,s,"Feuille de gnetum, arachide, huile de palme, oignon, tomate, poisson fumé, sel",213,63.4,5.97,17.08,4.57,5.57,1.73,1.10,0.60,37,52,67,,0.400,229,24,1.50
+79,Okok2,s,"Feuille de gnetum, arachide, viande de vache, poisson fumé, huile de palme, épices",200,73.1,7.58,20.00,3.00,1.40,,3.91,0.91,82,,,0.230,,,,
+80,Soupe de feuille de gombo,s,"Feuilles de gombo, arachide, viande de vache séchée, poisson",128,82.3,4.50,12.20,2.30,1.00,,0.80,0.40,29,45,60,,0.300,209,21,0.90
+81,Okra-pod-soup1,s,"Gombo à rames, poisson séché, tomate, épices, arachide",153,75.5,3.80,13.50,4.60,2.30,,0.90,0.70,43,103,114,,0.600,228,21,1.10
+82,Okra-pod-soup2,s,"Gombo à rames, poisson séché, tomate, épices, arachide",126,79.9,5.40,9.70,2.10,0.90,,0.90,1.50,23,25,82,,0.300,177,30,3.30
+83,Oles-boulli,c,"Riz, sel",97,74.6,8.00,0.06,21.58,1.43,0.49,0.34,1.05,6,,,0.040,,,,
+84,Oles-sauté,m,"Riz, huile de palme, sel",95,76.1,1.84,1.23,18.32,1.86,0.66,0.57,0.84,7,,,0.040,,,,
+85,Pap,sn,"Pâte ou farine de maïs fermentée, sucre, citron",33,92.0,1.84,0.20,7.00,0.70,,0.10,0.10,5,2,8,,0.000,15,3,0.70
+86,Pes,s,"Arachide, huile de palme, oignon, tomate, poisson fumé, gombo, sel",128,77.2,0.80,9.46,4.04,1.57,1.25,1.66,0.74,49,,,0.090,,,,
+87,Pilé/pommes,m,"Pomme de terre irlandaise, haricot rouge, huile de palme rouge, poivron, oignon, sel",87,79.9,5.96,4.11,7.78,4.06,1.52,1.09,0.23,18,131,100,0.046,0.123,250,,
+88,Plantain-porridge,m,"Plantain vert, viande de vache, tomate, oignon, épice, huile de palme, arachide",144,70.9,2.60,8.00,18.70,1.50,,0.50,0.20,24,5,28,,0.000,318,6,1.20
+89,Plantain/sauce-tomate,m,"Plantain, tomate, poivre, ail, herbes vertes, poivron vert, viande de vache, épices",97,77.8,2.28,3.90,11.50,3.33,1.25,0.67,0.15,24,95,7,0.045,0.129,228,,
+90,Poumseing-djap,m,"Haricot rouge, légume, maïs, banane, huile de palme, sel, poivre",190,60.1,3.70,7.78,25.44,1.57,1.45,,,,,,,,,,
+91,Poumseing-djap-mtom,m,"Haricot rouge, légume, maïs, banane, pomme de terre irlandaise, huile de palme, sel, poivre",165,64.5,3.16,5.72,24.77,1.07,0.80,,,,,,,,,,
+92,Poumseing-kodok,m,"Haricot rouge, légume, maïs, banane, huile de palme, sel, poivre",195,58.0,5.26,7.26,26.11,2.09,1.32,,,,,,,,,,
+93,Poumseing-kodok-mtom,m,"Haricot rouge, légume, maïs, banane, pomme de terre irlandaise, huile de palme, sel, poivre",163,63.4,4.50,5.21,23.68,1.92,1.29,,,,,,,,,,
+94,Pumpkin leaves and huckleberry sauce,s,"Feuille de potiron, feuille de myrtille, tomate, oignon, épices, poisson",115,79.3,6.00,9.40,4.20,2.00,,1.30,0.80,45,96,95,,0.600,335,20,1.80
+95,Riz-sauté,m,"Riz, tomate, herbes vertes, poisson frais, ail, carotte, huile, sel",104,74.1,2.03,2.76,15.91,3.90,1.31,0.38,0.29,6,8,33,0.031,0.215,51,,
+96,Riz-arachide,m,"Riz, arachide, poisson frais, tomate, herbes vertes, poivre, huile, épices",73,78.8,3.57,1.48,10.02,2.74,1.25,0.58,0.34,16,80,83,0.039,0.188,66,,
+97,Riz-tomate,m,"Riz, tomate, herbes vertes, poisson frais, ail, carotte, huile, sel",82,78.1,2.79,3.61,5.28,8.50,1.72,0.53,1.68,12,36,58,0.036,0.186,93,,
+98,Salade,s,"Eau, feuilles, arachide, huile de palme",73,86.2,3.76,5.61,0.64,2.20,1.60,2.05,0.51,51,,,0.070,,,,
+99,Sanga1,m,"Grain de maïs, feuille de manioc, pulpe de noix de palme, sucre",95,72.1,2.94,7.97,1.30,3.30,0.43,1.11,0.56,31,,,0.110,,,,
+100,Sanga2,m,"Maïs frais, feuilles vertes (manioc, myrtille, potiron), pulpe de noix de palme",244,64.8,3.00,12.10,31.10,2.80,,1.20,0.10,24,16,63,,0.100,167,150,0.20
+101,Site-ngalli,m,"Gari, huile de palme, oignon, tomate, poivre, sel, maggi cube, écrevisse ou poisson fumé",208,59.5,0.62,10.45,27.43,1.03,1.01,,,,,,,,,,
+102,Site-sembun,m,"Tubercules de manioc, huile de palme, oignon, tomate fraîche, sel, poivre",394,29.8,2.13,24.95,39.70,1.30,2.09,,,,,,,,,,
+103,Site-sembun-bo-kenà,m,"Arachide, tubercule de manioc, huile de palme, oignon, tomate fraîche, sel, poivre",150,69.5,2.59,6.86,19.04,0.85,1.12,,,,,,,,,,
+104,Ragoût d'escargots,s,"Escargot, tomate, oignon, sel, poivre, ail, huile végétale",143,75.1,11.30,9.80,2.70,0.70,,2.40,0.80,158,14,187,,0.200,287,43,0.60
+105,Sog-sojà,s,"Soja, huile de palme, oignon, tomate fraîche, poisson fumé, sel, poivre",133,74.5,8.41,8.64,4.82,1.31,2.37,,,,,,,,,,
+106,Poisson à la vapeur,s,"Poissons, épices",77,83.0,12.70,2.40,1.50,0.60,,0.30,0.40,27,11,132,,0.100,267,78,19.50
+107,Escargots à la vapeur,s,"Escargot, épices",211,64.8,9.70,18.20,6.40,3.00,,1.80,1.30,65,42,142,,0.700,288,11,2.70
+108,Tag-bankun,m,"Haricot rouge bouilli, sel, pâte de farine de maïs cuite à la vapeur, huile de palme, sel, poivre",266,43.3,6.76,9.99,36.15,2.40,1.43,,,,,,,,,,
+109,Tag-kenà,m,"Maïs en grain, arachide, poivre, sel, maggi cube, écrevisse, poisson fumé",224,55.2,7.99,10.92,22.76,1.42,1.66,,,,,,,,,,
+110,Tchoû-goudom,m,"Haricot rouge, légume, maïs, banane, pomme de terre, huile de palme, sel, poivre",173,62.9,3.21,6.40,24.80,1.62,1.10,,,,,,,,,,
+111,Tchoû-khedé-mtom,m,"Haricot rouge, légume, banane, pomme de terre, huile de palme, sel, poivre",216,59.3,3.77,12.42,21.35,1.86,1.27,,,,,,,,132,31,6.90
+112,Tchoû-khedé,m,"Haricot rouge, légume, banane, huile de palme, sel, poivre",168,64.9,3.81,7.08,21.52,1.50,1.22,,,,,,,,5,2,0.10
+113,Ragoût de tomates,s,"Tomate fraîche, oignon, poisson frais, ail, huile, sel, poivre",193,74.8,4.30,19.40,0.90,0.50,,0.10,0.10,9,5,46,,0.000,,,
+114,Sauce jaune,s,"Huile de palme, bouillon de viande, épices locales",144,83.4,0.10,16.00,0.40,0.00,,0.00,0.00,1,4,2,,0.000,,,
+115,Zom-non-salé,s,"Feuille de myrtille, arachide, noix de palme, oignon, tomate, poisson fumé",156,74.8,5.33,13.04,2.68,3.51,0.68,2.28,0.68,61,,,0.210,,,,
+116,Zom-sale,s,"Feuille de myrtille, arachide, huile de palme, oignon, tomate, poisson fumé, sel",132,76.6,5.08,10.53,2.36,3.72,1.71,2.78,0.69,54,,,0.160,,,,
+117,Zou'tchou'nè,m,"Haricot rouge, tubercule d'igname, huile de palme, sel, poivre",195,59.3,5.29,8.88,21.78,3.19,1.54,,,,,,,,,,
